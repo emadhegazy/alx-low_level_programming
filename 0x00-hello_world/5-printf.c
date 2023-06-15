@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *main - enty point
+ * main - enty point
  *
- *Description:A C programing that print useing prin ffunction.
+ * Description: A C programing that print useing prin ffunction.
  *
- *return: alwats 0 (success)
+ * Return: always 0 (Success)
 */
 
 int main(void)
