@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main Determines if a number is positive, negative,zero.
+ * main - entry point
  *
- * Description: to Find if n == or > or < 0
+ * Description: positive or negative
  *
  * Return: Always 0 (Success)
 */
@@ -19,8 +19,8 @@ else if n > 0
 {
 printf("%d is positive\n", n);
 }
-
-else n < 0
+else
+n < 0
 {
 printf("%d is negative\n", n);
 }
