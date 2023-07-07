@@ -1,9 +1,10 @@
 #include "main.h"
-void _puts(char *str)
 #include<stdio.h>
+void _puts(char *str)
 /**
  * main - Entry point
  *
+ * call _puts function to print the pointer variable
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -11,4 +12,3 @@ int main(void)
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
-
