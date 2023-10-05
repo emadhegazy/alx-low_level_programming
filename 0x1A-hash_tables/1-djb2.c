@@ -1,5 +1,6 @@
+
 /**
- * hash_djb2 - this is the Hash function, takes 
+ * hash_djb2 - this is the Hash function, takes
  * a string and turns it into a hash number
  * @str: s is the string, a constant value unrepeated in the hash table
  *
